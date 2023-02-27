@@ -1,0 +1,6 @@
+Step 1. Installing Keras ipykernel 
+
+Command : conda install -n keras ipykernel --update-deps --force-reinstall
+
+Step 2: 
+Command : pip3 install -U scikit-learn scipy matplotlib
